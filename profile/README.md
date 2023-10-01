@@ -40,3 +40,7 @@ balanssu.contact@gmail.com
 
 ![밸런슈 (3)](https://user-images.githubusercontent.com/25146374/222999862-7fd82113-691b-4812-9ce4-a296bcdc322a.png)
 
+## ✨ App Store ✨
+<a href="https://apps.apple.com/kr/app/balanssu/id6455787963">
+  <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" alt="AppStore-icon" width="200" height="200">
+</a>
